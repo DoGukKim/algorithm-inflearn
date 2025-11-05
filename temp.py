@@ -1,5 +1,6 @@
 def main():
-    result = ''
+    result = ""
     return result
+
 
 print(main())
